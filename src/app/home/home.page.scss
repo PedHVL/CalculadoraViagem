@@ -1,0 +1,37 @@
+.rot{
+  transform: rotate(15deg);
+}
+.container{
+  height: 85%;
+  width: 85%;
+  background-color: rgb(207, 250, 250);
+  font-family: 'Verdana', Courier, monospace;
+  font-size: 80%;
+  margin-left:  7%;
+  margin-top: 10%;
+  margin-right: 7%;
+  
+}
+.svg-icon {
+  width: 4em;
+  height: 4em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #070341;
+}
+
+.svg-icon circle {
+  stroke: #070341;
+  stroke-width: 1;
+}
+.text1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ter{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+
+}
